@@ -1,0 +1,1 @@
+<?php // Ignore folder requests
